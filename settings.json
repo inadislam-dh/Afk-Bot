@@ -6,9 +6,9 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.17.1"
+    "ip": "147.185.221.180",
+    "port": 58840,
+    "version": "1.19.2"
   },
 
   "position": {
